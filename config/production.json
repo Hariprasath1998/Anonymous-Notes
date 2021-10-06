@@ -1,0 +1,4 @@
+{
+    "mongoURI" :  "mongodb+srv://hari:shutdown@anotes.70rfu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
+}
